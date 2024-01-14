@@ -9,7 +9,7 @@ import streamlit as st
 import pandas as pd
 
 
-title = """Comparing supervised learning methods for feature selection"""
+title = """Comparing Supervised Learning Methods for Feature Selection"""
 
 headr = """This exercise compares 8 different methods for feature selection. """
 
