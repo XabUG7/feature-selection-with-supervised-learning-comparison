@@ -1,0 +1,10 @@
+0,1,2,3,4,5,6,7
+Hillshade_9am,Elevation,Wilderness_Area3,Wilderness_Area1,nan,nan,nan,nan
+Wilderness_Area4,Wilderness_Area3,Hillshade_Noon,Hillshade_9am,nan,nan,nan,nan
+Elevation,Horizontal_Distance_To_Roadways,Horizontal_Distance_To_Fire_Points,Wilderness_Area1,nan,nan,nan,nan
+Elevation,Horizontal_Distance_To_Roadways,Horizontal_Distance_To_Fire_Points,Horizontal_Distance_To_Hydrology,nan,nan,nan,nan
+Elevation,Wilderness_Area1,Horizontal_Distance_To_Roadways,Horizontal_Distance_To_Fire_Points,nan,nan,nan,nan
+Elevation,Aspect,Slope,Horizontal_Distance_To_Hydrology,nan,nan,nan,nan
+Elevation,Wilderness_Area1,Horizontal_Distance_To_Roadways,Wilderness_Area4,nan,nan,nan,nan
+Elevation,Wilderness_Area1,Horizontal_Distance_To_Roadways,Horizontal_Distance_To_Fire_Points,nan,nan,nan,nan
+0.79076,0.70916,0.8348,0.84456,0.8348,0.8072,0.8154,0.8348
