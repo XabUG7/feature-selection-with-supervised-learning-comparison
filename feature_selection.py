@@ -380,7 +380,7 @@ st.sidebar.markdown('''
 
 
 
-st.markdown("<h1 style='text-align: center; color: black;'>Comparing supervised learning methods for feature selection</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: black;'>Comparing Supervised Learning Methods for Feature Selection</h1>", unsafe_allow_html=True)
 st.markdown("""#""")
 
 st.subheader("Overview")
