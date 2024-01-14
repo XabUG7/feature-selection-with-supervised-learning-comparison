@@ -10,7 +10,7 @@ This exercise compares 8 different methods for feature selection. The selected 6
 - Random Forest Classifier
 - Gradient Boosting Classifier
 - Mutual Information Classification
-- Additionally, 2 other methods will be used:
+Additionally, 2 other methods will be used:
   
 - Features with least correlation
 - The most common features out of the previous methods
