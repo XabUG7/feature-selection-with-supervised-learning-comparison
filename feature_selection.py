@@ -359,7 +359,7 @@ result_scores = df_results.iloc[8]
 
  
 st.set_page_config(layout="wide", page_title="Forest Cover data feature selection", page_icon=":deciduous_tree:")
-
+st.write("#")
 
 st.sidebar.markdown('''
 # Sections
