@@ -379,8 +379,8 @@ st.sidebar.markdown('''
 ''', unsafe_allow_html=True)
 
 
-st.markdown("""<h5 style='text-align: left; color: black;'><strong>Author: </strong><a href="https://cv-xabier-urruchua.streamlit.app/" target="_blank">Xabier Urruchua</a></h5>""", unsafe_allow_html=True)
-st.markdown("<h1 style='text-align: center; color: black;'>Comparing Supervised Learning Methods for Feature Selection</h1>", unsafe_allow_html=True)
+st.markdown("""<h5 style='text-align: left;'><strong>Author: </strong><a href="https://cv-xabier-urruchua.streamlit.app/" target="_blank">Xabier Urruchua</a></h5>""", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Comparing Supervised Learning Methods for Feature Selection</h1>", unsafe_allow_html=True)
 st.markdown("""#""")
 
 st.subheader("Overview")
